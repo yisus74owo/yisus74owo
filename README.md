@@ -1,4 +1,4 @@
-🌟 **Welcome to my GitHub!** 🌟
+👋 Hi, I'm <u>Yisus</u>! 😊
 
 I am a technology enthusiast and a Systems Engineering student, embarking on my exciting journey into the world of software development. Here you will find my early projects and collaborations, where I apply and expand my knowledge in programming and web development.
 
