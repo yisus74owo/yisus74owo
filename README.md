@@ -1,5 +1,5 @@
 
-<img src="images/Banner.png" alt="Banner">
+
   <div align="center">
     <img src="images/Banner.png" alt="Banner">
     <a href="mailto:tucorreo@gmail.com" style="font-size: 1.2em; font-style: italic; color: #44; max-width: 600px; text-decoration: none;">
