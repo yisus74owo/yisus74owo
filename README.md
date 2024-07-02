@@ -22,5 +22,6 @@ I am always open to new opportunities and collaborations. If you have an excitin
 
 - Git, GitHub and Sourcetree for version control
 - Programming languages: Java
+- Adobe Photoshop, Illustrator, and Premiere Pro
 
 Thank you for visiting my profile. Let's build something amazing together!
