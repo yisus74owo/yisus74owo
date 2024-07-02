@@ -6,40 +6,6 @@
         yisuspapa74@gmail.com
     </a>
 </div>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tools and Technologies</title>
-    <style>
-        .badge {
-            display: inline-block;
-            padding: 10px;
-            margin: 5px;
-            border-radius: 5px;
-            text-decoration: none;
-            font-size: 1em;
-            color: white;
-            background-color: #007bff;
-        }
-        .badge:hover {
-            background-color: #0056b3;
-        }
-    </style>
-</head>
-<body>
-    <div align="center">
-        <h2>Tools and Technologies</h2>
-        <a href="https://www.java.com/" class="badge" target="_blank">Java</a>
-        <a href="https://git-scm.com/" class="badge" target="_blank">Git</a>
-        <a href="https://github.com/" class="badge" target="_blank">GitHub</a>
-        <a href="https://www.sourcetreeapp.com/" class="badge" target="_blank">Sourcetree</a>
-    </div>
-</body>
-</html>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
   <p style="font-size: 1.2em; font-style: italic; color: #44; max-width: 600px;">I am a passionate technology enthusiast and a dedicated Systems Engineering student, embarking on an exciting journey into the world of software development. Here on my GitHub, you'll discover my early projects and collaborations, where I actively apply and expand my skills in programming and web development.</p>
 </div>
