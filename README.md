@@ -1,5 +1,6 @@
 <div align="center">
   <h2> 😊 Hi, I'm <u>Yisus</u>! 😊</h2>
+  ![xd](Banner.png)
 <img src="images/banner.png" alt="Banner">
   <a href="mailto:tucorreo@gmail.com" style="font-size: 1.2em; font-style: italic; color: #44; max-width: 600px; text-decoration: none;">
     yisuspapa74@gmail.com
