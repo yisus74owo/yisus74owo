@@ -1,5 +1,7 @@
 👋 Hi, I'm <u>Yisus</u>! 😊
 
+🌟 **Welcome to my GitHub!** 🌟
+
 I am a technology enthusiast and a Systems Engineering student, embarking on my exciting journey into the world of software development. Here you will find my early projects and collaborations, where I apply and expand my knowledge in programming and web development.
 
 🚀 **What I do:**
@@ -20,8 +22,8 @@ I am always open to new opportunities and collaborations. If you have an excitin
 
 🔧 **Tools and technologies:**
 
-- Git, GitHub and Sourcetree for version control
-- Programming languages: Java
-- Adobe Photoshop, Illustrator, and Premiere Pro
+- 🛠️ Git, GitHub, and Sourcetree for version control
+- 💻 Programming languages: Java
+- 🎨 Adobe Photoshop, Illustrator, and Premiere Pro 2022
 
-Thank you for visiting my profile. Let's build something amazing together!
+Thank you for visiting my profile. Let's build something amazing together! 🚀✨
