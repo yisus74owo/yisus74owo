@@ -1,10 +1,8 @@
 <div align="center">
   <h2> 😊 Hi, I'm <u>Yisus</u>! 😊</h2>
   <a href="mailto:tucorreo@gmail.com" style="font-size: 1.2em; font-style: italic; color: #44; max-width: 600px; text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="20" style="vertical-align: middle; margin-right: 8px;">
-    tucorreo@gmail.com
+    yisuspapa74@gmail.com
   </a>
-  <button onclick="copyToClipboard()" style="margin-left: 10px; font-size: 0.9em; padding: 5px 10px; border: none; background-color: #44; color: white; border-radius: 5px; cursor: pointer;">Copy</button>
 </div>
 
 <div align="center">
@@ -55,12 +53,3 @@
 <div align="center">
   <p style="font-size: 1.1em; font-style: italic; color: #44; max-width: 600px; margin-top: 20px;">Thank you for visiting my profile. Let's build something amazing together! 🚀✨</p>
 </div>
-
-<script>
-  function copyToClipboard() {
-    const email = 'tucorreo@gmail.com';
-    navigator.clipboard.writeText(email).then(() => {
-      alert('Email copied to clipboard');
-    });
-  }
-</script>
