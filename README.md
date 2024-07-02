@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2>🌟 👋 Hi, I'm <u>Yisus</u>! 😊</h2>
+  <h2>  Hi, I'm <u>Yisus</u>! 😊</h2>
 </div>
 
 <div align="center">
