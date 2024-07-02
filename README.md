@@ -4,10 +4,6 @@
 </div>
 
 <div align="center">
-  <h1 style="color:#FF5733;">🌟 Welcome to my GitHub! 🌟</h1>
-</div>
-
-<div align="center">
   <p style="font-size: 1.2em; font-style: italic; color: #44; max-width: 600px;">I am a passionate technology enthusiast and a dedicated Systems Engineering student, embarking on an exciting journey into the world of software development. Here on my GitHub, you'll discover my early projects and collaborations, where I actively apply and expand my skills in programming and web development.</p>
 </div>
 
