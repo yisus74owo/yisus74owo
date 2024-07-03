@@ -1,7 +1,6 @@
 
+https://github.com/yisus74owo/yisus74owo/assets/173970066/11b7f2d2-094a-4671-9092-f9e34bb15a05
   <div align="center">
-    <img src="images/YISUS74OWO.jpg" alt="Banner">
-    <p align="left">
       <div align="center">
     <!-- Badges de programación -->
     <a href="https://www.java.com" target="_blank">
