@@ -47,9 +47,9 @@
         yisuspapa74@gmail.com
     </a>
 </div>
-<div align="center">
-  <p style="font-size: 1.2em; font-style: italic; color: #44; max-width: 600px;">I am a passionate technology enthusiast and a dedicated Systems Engineering student, embarking on an exciting journey into the world of software development. Here on my GitHub, you'll discover my early projects and collaborations, where I actively apply and expand my skills in programming and web development.</p>
-</div>
+
+###  I am a passionate technology enthusiast and a dedicated Systems Engineering student, embarking on an exciting journey into the world of software development. Here on my GitHub, you'll discover my early projects and collaborations, where I actively apply and expand my skills in programming and web development.
+
 
 <div style="margin-bottom: 20px;">
   <div style="padding:2px; border-top: 2px solid #8E44AD;"></div>
