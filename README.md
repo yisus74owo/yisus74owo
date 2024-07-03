@@ -1,6 +1,6 @@
 
   <div align="center">
-    <img src="images/YISUS74OWO.png" alt="Banner">
+    <img src="images/YISUS74OWO.jpg" alt="Banner">
     <p align="left">
       <div align="center">
     <!-- Badges de programación -->
