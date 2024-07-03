@@ -1,5 +1,5 @@
 
-https://github.com/yisus74owo/yisus74owo/assets/173970066/11b7f2d2-094a-4671-9092-f9e34bb15a05
+![YISUS74OWO](https://github.com/yisus74owo/yisus74owo/assets/173970066/e752be86-3795-4212-a57b-91d405257f44)
   <div align="center">
       <div align="center">
     <!-- Badges de programación -->
