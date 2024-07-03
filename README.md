@@ -105,9 +105,6 @@
             <img src="https://github-readme-stats.vercel.app/api?username=yisus74owo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
         </picture>
     </div>
-    <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language" style="text-decoration:none;">
-            <img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=yisus74owo&hide=C%23,PHP,SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compact&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Top langs" />
-        </a>
-    </div>
-</div>
+  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yisus74owo&layout=compact)
