@@ -1,8 +1,46 @@
 
-
   <div align="center">
     <img src="images/Banner.png" alt="Banner">
     <p align="left">
+      <div align="center">
+    <!-- Badges de programación -->
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    </a>
+    <a href="https://git-scm.com" target="_blank">
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+    </a>
+ <!-- Redes sociales -->
+    <a href="https://discord.com" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="mailto:tucorreo@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+ <!-- Entretenimiento -->
+    <a href="https://www.crunchyroll.com" target="_blank">
+        <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Crunchyroll" />
+    </a>
+    <a href="https://www.opera.com" target="_blank">
+        <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera" />
+    </a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge" alt="Adobe Photoshop" />
+    </a>
+    <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge" alt="Adobe Illustrator" />
+    </a>
+    <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge" alt="Adobe Premiere Pro" />
+    </a>
+    <a href="https://www.github.com" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+</div>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
     <a href="mailto:tucorreo@gmail.com" style="font-size: 1.2em; font-style: italic; color: #44; max-width: 600px; text-decoration: none;">
