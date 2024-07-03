@@ -1,6 +1,10 @@
+<video width="320" height="240" controls>
+  <source src="images/YISUSOWO.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
   <div align="center">
-    <img src="images/Banner.png" alt="Banner">
+    <img src="images/YISUSOWO.mp4" alt="Banner">
     <p align="left">
       <div align="center">
     <!-- Badges de programación -->
