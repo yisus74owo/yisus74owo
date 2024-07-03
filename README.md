@@ -58,16 +58,16 @@
   <p style="font-size: 1.1em; font-style: italic; color: #44; max-width: 600px; margin-top: 20px;">Thank you for visiting my profile. Let's build something amazing together! 🚀✨</p>
 </div>
 <div class="stats-container">
-    <h2>Yisus74's GitHub Stats</h2>
+    <h2>Jesus Alejandro GitHub Stats</h2>
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=yisus74&show_icons=true&theme=tokyonight"
+            srcset="https://github-readme-stats.vercel.app/api?username=yisus74owo&show_icons=true&theme=tokyonight"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=yisus74&show_icons=true&theme=default"
+            srcset="https://github-readme-stats.vercel.app/api?username=yisus74owo&show_icons=true&theme=default"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=yisus74&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yisus74owo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </picture>
 </div>
