@@ -42,11 +42,7 @@
 </div>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
-    <a href="mailto:tucorreo@gmail.com" style="font-size: 1.2em; font-style: italic; color: #44; max-width: 600px; text-decoration: none;">
-        yisuspapa74@gmail.com
-    </a>
-</div>
+
 
 ###  I am a passionate technology enthusiast and a dedicated Systems Engineering student, embarking on an exciting journey into the world of software development. Here on my GitHub, you'll discover my early projects and collaborations, where I actively apply and expand my skills in programming and web development.
 
@@ -93,7 +89,7 @@
 </div>
 
 <div align="center">
-  <p style="font-size: 1.1em; font-style: italic; color: #44; max-width: 600px; margin-top: 20px;">Thank you for visiting my profile. Let's build something amazing together! 🚀✨</p>
+  <p style="font-size: 1.1em; font-style: italic; color: #44; max-width: 600px; margin-top: 20px;">🚀✨Thank you for visiting my profile. Let's build something amazing together! 🚀✨</p>
 <div class="stats-container" style="display: flex; justify-content: center; align-items: center;">
     <div style="margin-right: 20px;">
         <h2>Jesus Alejandro GitHub Stats</h2>
