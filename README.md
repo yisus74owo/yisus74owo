@@ -113,4 +113,4 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yisus74owo&layout=compact&theme=tokyonight" alt="Top Langs" />
-</picture>
+</picture
